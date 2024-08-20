@@ -238,6 +238,11 @@ path = "examples/json_typed.rs"
 required-features = ["json"]
 
 [[example]]
+name = "socks4"
+path = "examples/socks4.rs"
+required-features = ["socks"]
+
+[[example]]
 name = "tor_socks"
 path = "examples/tor_socks.rs"
 required-features = ["socks"]
